@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=f5f5f7)](https://github.com/Thatblazerguy)
-[![Email](https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:rahulrajkumar07@outlook.com)
 
 <br>
 
@@ -114,7 +114,7 @@ The Cricket Tournament Manager's stats engine is written in pure TypeScript, dec
 
 **Let's talk about cricket analytics, databases, or React.**
 
-[your.email@example.com](mailto:your.email@example.com) · [GitHub](https://github.com/Thatblazerguy)
+[rahulrajkumar07@outlook.com](mailto:rahulrajkumar07@outlook.com) · [GitHub](https://github.com/Thatblazerguy)
 
 <br>
 
